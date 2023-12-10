@@ -265,3 +265,7 @@ body {
 .additional-info__languages-item {
   color: var(--secondary-text-color);
 }
+
+.additional-info__education hr {
+  border-color: var(--border-color);
+}
